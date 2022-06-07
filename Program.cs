@@ -3,9 +3,9 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace ConsoleApp2
+namespace SocketProgrammingClient
 {
-    //CLIENT
+    //SERVER
     class Program
     {
         static void Main(string[] args)
